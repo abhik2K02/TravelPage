@@ -1,0 +1,28 @@
+
+
+
+
+.first_col{
+    background-color: #fff;
+    height: 450px;
+    position: relative;
+    width: 450px;
+    border-radius: 20px;
+}
+.container h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.d-flex button a{
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+}
+.nav-item{
+    font-weight: bold;
+}
+.container .card{
+    box-shadow: 2px 5px 15px 2px #666;
+}
